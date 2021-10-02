@@ -1,8 +1,8 @@
 # partner-aware-ucb
 This code simulates Partner-Aware UCB along with other multi-armed bandit (MAB) algorithms on decentralized cooperative MAB problems.
 
-Companion code to AAAI 2022 submission:  
-Erdem Biyik, Anusha Lalitha, Rajarshi Saha, Andrea Goldsmith, Dorsa Sadigh. **"Partner-Aware Algorithms in Decentralized Cooperative Bandit Teams"**. *Thirty-Sixth AAAI Conference on Artificial Intelligence*, Feb. 2022. *(Submitted)*
+Companion code to AI-HRI 2021 paper:  
+Erdem Biyik, Anusha Lalitha, Rajarshi Saha, Andrea Goldsmith, Dorsa Sadigh. **"Partner-Aware Algorithms in Decentralized Cooperative Bandit Teams"**. *Artificial Intelligence for Human-Robot Interaction (AI-HRI) at AAAI Fall Symposium Series*, Nov. 2021.
 
 ## Dependencies
 You need to have the following libraries with [Python3](http://www.python.org/downloads):
