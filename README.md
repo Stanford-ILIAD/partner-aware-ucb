@@ -2,6 +2,7 @@
 This code simulates Partner-Aware UCB along with other multi-armed bandit (MAB) algorithms on decentralized cooperative MAB problems.
 
 Companion code to AAAI 2022 paper:
+
 Erdem Bıyık, Anusha Lalitha, Rajarshi Saha, Andrea Goldsmith, Dorsa Sadigh. **"Partner-Aware Algorithms in Decentralized Cooperative Bandit Teams"**. *Thirty-Sixth AAAI Conference on Artificial Intelligence*, Feb. 2022.
 
 Also presented at "Artificial Intelligence for Human-Robot Interaction (AI-HRI) at AAAI Fall Symposium Series" (Nov. 2021).
